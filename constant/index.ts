@@ -10,7 +10,7 @@ export const categoryFilters = [
   "DevOps",
   "Data Science",
   "Machine Learning",
-  "Cybersecurity",
+  "Java",
   "Blockchain",
   "E-commerce",
   "Chatbots"
